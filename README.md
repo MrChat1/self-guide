@@ -1,7 +1,7 @@
 # # Гайд по созданию селф бота на русском языке  
 Дискорд селф бот для создания кастомного статуса с текстом и изображением
 
-![banner](https://media.discordapp.net/attachments/1043409396547473431/1046506163732226138/image.png)
+![banner](https://media.discordapp.net/attachments/776031204834017310/1048689080155783200/image.png)
 
 # Как получить токен вашего аккаунта в Discord?
 Посмотрите это видео: https://www.youtube.com/watch?v=YEgFvgg7ZPI
