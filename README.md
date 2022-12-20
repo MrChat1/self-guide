@@ -22,5 +22,5 @@
 Если у вас появляется "module "discord" not found". Запускайте бота этой командой: ```python3 -m pip3 install discord==1.7.3```. После чего всё должно получиться 
 
 # Ссылки на автора оригинального гайда: 
-https://t.me/artembay1
-https://github.com/ArtemBay
+[Telegram](https://t.me/artembay1)
+[GitHub](https://github.com/ArtemBay)
